@@ -12,5 +12,5 @@
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [https://ernttt94.github.io/Trivia-Quiz/](https://ernttt94.github.io/Trivia-Quiz/)
+- GitHub [@erntTt94](erntTt94)
